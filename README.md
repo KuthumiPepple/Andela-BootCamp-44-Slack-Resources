@@ -32,10 +32,11 @@ A list of all links shared in the Andela BootCamp cycle 44
 
 ## Writing
 
+1. [Readme guide](https://github.com/jehna/readme-best-practices/blob/master/README-default.md)
 1. [Markdown syntax documentation](https://daringfireball.net/projects/markdown/syntax)
 1. [A Quick Guide to Medium](https://link.medium.com/excyno5DEW)
 1. [Write your best with Grammarly](https://app.grammarly.com/)
-1. [](https://slack-redir.net/link?url=https%3A%2F%2Fwww.quickbase.com%2Fblog%2F10-ways-to-improve-your-professional-writing)
+1. [10 Ways to Improve Your Professional Writing](https://slack-redir.net/link?url=https%3A%2F%2Fwww.quickbase.com%2Fblog%2F10-ways-to-improve-your-professional-writing)
 
 ## SQL
 
