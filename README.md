@@ -38,8 +38,10 @@ A list of all links shared in the Andela BootCamp cycle 44
 1. [Write your best with Grammarly](https://app.grammarly.com/)
 1. [10 Ways to Improve Your Professional Writing](https://slack-redir.net/link?url=https%3A%2F%2Fwww.quickbase.com%2Fblog%2F10-ways-to-improve-your-professional-writing)
 
-## SQL
+## PostgreSQL and SQL
 
+1. [PostgreSQL download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+1. [PgAdmin download](https://www.pgadmin.org/download/)
 1. [List of SQL commands - CodeAcademy](https://www.codecademy.com/articles/sql-commands)
 
 ## Testing
