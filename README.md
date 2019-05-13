@@ -32,6 +32,7 @@ A list of all links shared in the Andela BootCamp cycle 44
 
 ## Writing
 
+1. [Readme guide](https://github.com/jehna/readme-best-practices/blob/master/README-default.md)
 1. [Markdown syntax documentation](https://daringfireball.net/projects/markdown/syntax)
 1. [A Quick Guide to Medium](https://link.medium.com/excyno5DEW)
 1. [Write your best with Grammarly](https://app.grammarly.com/)
