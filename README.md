@@ -14,6 +14,10 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 1. [Feature Branches and Pull Requests : Walkthrough](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a)
 
+## Pivotal Tracker
+
+1. [User stories template](https://docs.google.com/document/d/1ADcZ54o1s2aBtZ0dZ7fs_liFew1zTg10JqZxgRuNqm4/edit)
+
 ## Site Performance
 
 1. [GTmetrix](https://gtmetrix.com/)
@@ -37,6 +41,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Google drive books collection](https://drive.google.com/open?id=1IKfUQwJH6TCUcIXTonH60G_GNKVZpXa8)
 1. [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
 1. [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
+1. [Sending an email using NodeMailer & Gmail](https://codeburst.io/sending-an-email-using-nodemailer-gmail-7cfa0712a799)
 
 ## Deployment
 
@@ -60,6 +65,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Write your best with Grammarly](https://app.grammarly.com/)
 1. [10 Ways to Improve Your Professional Writing](https://slack-redir.net/link?url=https%3A%2F%2Fwww.quickbase.com%2Fblog%2F10-ways-to-improve-your-professional-writing)
 1. [Adding Swagger To Existing Node.js Project](https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b)
+1. [Splitting your swagger spec into multiple files in a Node project](https://medium.com/the-andela-way/splitting-your-swagger-spec-into-multiple-files-in-a-node-project-2019575b0ced)
 
 ## PostgreSQL and SQL
 
