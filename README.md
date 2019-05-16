@@ -18,6 +18,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 ## Pivotal Tracker
 
 1. [User stories template](https://docs.google.com/document/d/1ADcZ54o1s2aBtZ0dZ7fs_liFew1zTg10JqZxgRuNqm4/edit)
+1. Sam template in a `markdown` [file](/user-stories-template.md)
 
 ## Site Performance
 
