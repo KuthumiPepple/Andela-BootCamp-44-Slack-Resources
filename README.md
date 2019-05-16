@@ -7,6 +7,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Actual uses of ES6 WeakMaps - SO](https://stackoverflow.com/questions/29413222)
 1. [JavaScript reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 1. [ES6 - Udacity](https://classroom.udacity.com/courses/ud356)
+1. [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
 
 ## Version Control
 
@@ -42,6 +43,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Securing Node.js RESTful APIs with JSON Web Tokens](https://medium.freecodecamp.org/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52)
 1. [Using dotenv package to create environment variables](https://medium.com/@thejasonfile/using-dotenv-package-to-create-environment-variables-33da4ac4ea8f)
 1. [Sending an email using NodeMailer & Gmail](https://codeburst.io/sending-an-email-using-nodemailer-gmail-7cfa0712a799)
+1. [Setting up a RESTful API with Node.js and PostgreSQL](https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8)
 
 ## Deployment
 
@@ -87,3 +89,4 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 ## Miscellaneous
 
 1. [JSON Generator](https://www.json-generator.com/)
+1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
