@@ -2,6 +2,11 @@
 
 A list of all links shared in the Andela BootCamp cycle 44 slack channel
 
+## Andela links
+
+1. [Best Practices Wiki](https://github.com/andela/bestpractices/wiki)
+1. [Git naming conventions and best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
+
 ## JavaScript
 
 1. [Actual uses of ES6 WeakMaps - SO](https://stackoverflow.com/questions/29413222)
