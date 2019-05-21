@@ -7,6 +7,15 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Best Practices Wiki](https://github.com/andela/bestpractices/wiki)
 1. [Git naming conventions and best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
 
+## DOM Manipulation
+
+1. [Javascript and the DOM - Udacity](https://classroom.udacity.com/courses/ud117)
+
+
+## Emailing
+
+1. [Sending emails using Node.js and SendGrid](https://medium.com/@arjunbastola/sending-emails-using-node-js-and-sendgrid-5ad4dea7cf44)
+
 ## JavaScript
 
 1. [Actual uses of ES6 WeakMaps - SO](https://stackoverflow.com/questions/29413222)
@@ -80,6 +89,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [PostgreSQL download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 1. [PgAdmin download](https://www.pgadmin.org/download/)
 1. [List of SQL commands - CodeAcademy](https://www.codecademy.com/articles/sql-commands)
+1. [Don’t install Postgres. Docker pull Postgres](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198)
 
 ## Testing
 
@@ -96,3 +106,5 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 
 1. [JSON Generator](https://www.json-generator.com/)
 1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+1. [cross-env from npm](https://www.npmjs.com/package/cross-env)
+1. [Password Reset Using JWT](https://www.codementor.io/olatundegaruba/password-reset-using-jwt-ag2pmlck0)
