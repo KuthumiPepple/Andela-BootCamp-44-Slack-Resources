@@ -7,6 +7,10 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Best Practices Wiki](https://github.com/andela/bestpractices/wiki)
 1. [Git naming conventions and best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
 
+## Legal matters
+
+1. [Laws on Rape: What Every Nigerian should know - LawPàdí](https://lawpadi.com/laws-rape-every-nigerian-know/)
+
 ## DOM Manipulation
 
 1. [Javascript and the DOM - Udacity](https://classroom.udacity.com/courses/ud117)
@@ -38,8 +42,10 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 
 1. [GTmetrix](https://gtmetrix.com/)
 
-## UI/UX
+## UI/UX/Frontend
 
+1. [60 CSS Arrows](https://freefrontend.com/css-arrows/)
+1. [Give n Go](https://give-n-go.co/)
 1. [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 1. [SVG Illustrations](https://undraw.co/illustrations)
 1. [Images - Unsplash](https://unsplash.com/)
@@ -97,6 +103,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Testing Node.js with mocha and chai](https://mherman.org/blog/testing-node-js-with-mocha-and-chai/)
 1. [Chai.js cheatsheet](https://devhints.io/chai)
 1. [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+1. [Getting to 99.9% test coverage with Mocks, Stubs & Spies](https://medium.com/the-andela-way/getting-to-99-9-test-coverage-with-mocks-stubs-spies-ecdd3d4aaf9a)
 
 ## Twitter
 
