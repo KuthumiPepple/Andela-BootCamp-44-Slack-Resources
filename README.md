@@ -33,10 +33,11 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 1. [Feature Branches and Pull Requests : Walkthrough](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a)
 
-## Pivotal Tracker
+## Project management
 
 1. [User stories template](https://docs.google.com/document/d/1ADcZ54o1s2aBtZ0dZ7fs_liFew1zTg10JqZxgRuNqm4/edit)
-1. Sam template in a `markdown` [file](/user-stories-template.md)
+1. Same template in a `markdown` [file](/user-stories-template.md)
+1. [How (and why) to write great User Stories](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
 
 ## Site Performance
 
@@ -104,6 +105,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Chai.js cheatsheet](https://devhints.io/chai)
 1. [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
 1. [Getting to 99.9% test coverage with Mocks, Stubs & Spies](https://medium.com/the-andela-way/getting-to-99-9-test-coverage-with-mocks-stubs-spies-ecdd3d4aaf9a)
+1. [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
 
 ## Twitter
 
