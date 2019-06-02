@@ -117,3 +117,4 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 1. [cross-env from npm](https://www.npmjs.com/package/cross-env)
 1. [Password Reset Using JWT](https://www.codementor.io/olatundegaruba/password-reset-using-jwt-ag2pmlck0)
+1. [The differences between Object.freeze() vs Const in JavaScript](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
