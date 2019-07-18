@@ -7,6 +7,19 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Best Practices Wiki](https://github.com/andela/bestpractices/wiki)
 1. [Git naming conventions and best practices](https://github.com/andela/bestpractices/wiki/Git-naming-conventions-and-best-practices)
 
+## Legal matters
+
+1. [Laws on Rape: What Every Nigerian should know - LawPàdí](https://lawpadi.com/laws-rape-every-nigerian-know/)
+
+## DOM Manipulation
+
+1. [Javascript and the DOM - Udacity](https://classroom.udacity.com/courses/ud117)
+
+
+## Emailing
+
+1. [Sending emails using Node.js and SendGrid](https://medium.com/@arjunbastola/sending-emails-using-node-js-and-sendgrid-5ad4dea7cf44)
+
 ## JavaScript
 
 1. [Actual uses of ES6 WeakMaps - SO](https://stackoverflow.com/questions/29413222)
@@ -20,17 +33,20 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 1. [Feature Branches and Pull Requests : Walkthrough](https://gist.github.com/vlandham/3b2b79c40bc7353ae95a)
 
-## Pivotal Tracker
+## Project management
 
 1. [User stories template](https://docs.google.com/document/d/1ADcZ54o1s2aBtZ0dZ7fs_liFew1zTg10JqZxgRuNqm4/edit)
-1. Sam template in a `markdown` [file](/user-stories-template.md)
+1. Same template in a `markdown` [file](/user-stories-template.md)
+1. [How (and why) to write great User Stories](https://www.freecodecamp.org/news/how-and-why-to-write-great-user-stories-f5a110668246/)
 
 ## Site Performance
 
 1. [GTmetrix](https://gtmetrix.com/)
 
-## UI/UX
+## UI/UX/Frontend
 
+1. [60 CSS Arrows](https://freefrontend.com/css-arrows/)
+1. [Give n Go](https://give-n-go.co/)
 1. [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 1. [SVG Illustrations](https://undraw.co/illustrations)
 1. [Images - Unsplash](https://unsplash.com/)
@@ -80,6 +96,7 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [PostgreSQL download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 1. [PgAdmin download](https://www.pgadmin.org/download/)
 1. [List of SQL commands - CodeAcademy](https://www.codecademy.com/articles/sql-commands)
+1. [Don’t install Postgres. Docker pull Postgres](https://hackernoon.com/dont-install-postgres-docker-pull-postgres-bee20e200198)
 
 ## Testing
 
@@ -87,6 +104,8 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 1. [Testing Node.js with mocha and chai](https://mherman.org/blog/testing-node-js-with-mocha-and-chai/)
 1. [Chai.js cheatsheet](https://devhints.io/chai)
 1. [Test a Node RESTful API with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+1. [Getting to 99.9% test coverage with Mocks, Stubs & Spies](https://medium.com/the-andela-way/getting-to-99-9-test-coverage-with-mocks-stubs-spies-ecdd3d4aaf9a)
+1. [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](https://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
 
 ## Twitter
 
@@ -96,3 +115,6 @@ A list of all links shared in the Andela BootCamp cycle 44 slack channel
 
 1. [JSON Generator](https://www.json-generator.com/)
 1. [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+1. [cross-env from npm](https://www.npmjs.com/package/cross-env)
+1. [Password Reset Using JWT](https://www.codementor.io/olatundegaruba/password-reset-using-jwt-ag2pmlck0)
+1. [The differences between Object.freeze() vs Const in JavaScript](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
